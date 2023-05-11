@@ -5420,7 +5420,7 @@ header.sticky-header.sticky-active.header-two .header-info .item .title {
 }
 
 .contact-part .contact-maps {
-  height: 700px;
+  height: 500px;
   width: 100%;
 }
 
@@ -8181,7 +8181,7 @@ footer .footer-subscibe-area .subscribe-text .subscribe-form button:hover {
 footer .footer-widget-area {
   position: relative;
   z-index: 1;
-  background-color: #222;
+  background-color: #041e40;
 }
 
 footer .footer-widget-area::after {
@@ -8266,7 +8266,7 @@ footer .footer-widget-area .widget.site-info-widget .social-links a:hover {
 }
 
 footer .footer-widget-area .widget.nav-widget {
-  padding-left: 70px;
+  /* padding-left: 70px; */
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -8284,7 +8284,7 @@ footer .footer-widget-area .widget.nav-widget {
 footer .footer-widget-area .widget.nav-widget ul li {
   margin-bottom: 35px;
   width: 50%;
-  float: left;
+  /* float: left; */
 }
 
 @media (max-width: 399px) {
@@ -8297,7 +8297,7 @@ footer .footer-widget-area .widget.nav-widget ul li {
 footer .footer-widget-area .widget.nav-widget ul li a {
   font-family: "Roboto", sans-serif;
   position: relative;
-  padding-left: 20px;
+  padding-left: 15px;
 }
 
 footer .footer-widget-area .widget.nav-widget ul li a:hover {
